@@ -1,4 +1,7 @@
+![KidsArt](https://user-images.githubusercontent.com/93556946/195966273-f9306811-1af9-4cfd-964a-b775d9f8f38a.PNG)
+
 # Getting Started with Create React App
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
